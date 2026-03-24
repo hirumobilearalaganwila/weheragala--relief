@@ -1,0 +1,27 @@
+{
+  "name": "වෙහෙරගල මහා විද්‍යාලය — Relief Manager",
+  "short_name": "Relief Manager",
+  "description": "Weheragala Maha Vidyalaya Teacher Relief Management System",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#1565c0",
+  "orientation": "any",
+  "lang": "si",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "screenshots": []
+}
